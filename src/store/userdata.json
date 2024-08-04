@@ -1,0 +1,39 @@
+[
+    {
+        "profilePic" : "/static/media/profile.70e62af3e2edac7d4149.png" ,
+        "name" : "Mannat Mishra" ,
+        "email" : "mannatmishra04@gmail.com",
+        "password" : "Mannat@22",
+        "role" : "Admin User",
+        "number" : "987654321",
+        "address" : "silicon",
+        "state" : "Odisha",
+        "zipcode" : "753009"
+    },
+
+
+    {
+        "profilePic" : "/static/media/profile.70e62af3e2edac7d4149.png" ,
+        "name" : "Spandan Kumar Nanda" ,
+        "email" : "spandan@gmail.com",
+        "password" : "Spandan@22",
+        "role" : "Normal User",
+        "number" : "123456789",
+        "address" : "cv raman",
+        "state" : "Odisha",
+        "zipcode" : "753001"
+    },
+
+    
+    {
+        "profilePic" : "/static/media/profile.70e62af3e2edac7d4149.png" ,
+        "name" : "Rahul Gandhi" ,
+        "email" : "rahul@gmail.com",
+        "password" : "Rahul@22",
+        "role" : "Normal User",
+        "number" : "2996969100",
+        "address" : "Delhi",
+        "state" : "Odisha",
+        "zipcode" : "564898"
+    }
+]
